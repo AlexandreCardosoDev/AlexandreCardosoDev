@@ -18,4 +18,6 @@ With over 16 years of experience in the field, I've had the opportunity to work 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alexmcardosodev) 
 
-# 📫 How to reach me **alexmcardoso@gmail.com**
+# 📫 How to reach me 
+
+**alexmcardoso@gmail.com**
